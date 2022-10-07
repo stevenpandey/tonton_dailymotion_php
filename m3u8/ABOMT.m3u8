@@ -1,0 +1,16 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:6
+#EXT-X-MEDIA-SEQUENCE:70
+#EXTINF:6.0,
+http://cdn.lemmovie.com/live2/127.0.0.1:1977/hls/175716_MY_ABO_Movies_Thangathirai_HD-20221007-1665119759.ts
+#EXTINF:4.0,
+http://cdn.lemmovie.com/live2/127.0.0.1:1977/hls/175716_MY_ABO_Movies_Thangathirai_HD-20221007-1665119765.ts
+#EXTINF:6.0,
+http://cdn.lemmovie.com/live2/127.0.0.1:1977/hls/175716_MY_ABO_Movies_Thangathirai_HD-20221007-1665119769.ts
+#EXTINF:4.0,
+http://cdn.lemmovie.com/live2/127.0.0.1:1977/hls/175716_MY_ABO_Movies_Thangathirai_HD-20221007-1665119775.ts
+#EXTINF:5.24,
+http://cdn.lemmovie.com/live2/127.0.0.1:1977/hls/175716_MY_ABO_Movies_Thangathirai_HD-20221007-1665119779.ts
+#EXTINF:4.76,
+http://cdn.lemmovie.com/live2/127.0.0.1:1977/hls/175716_MY_ABO_Movies_Thangathirai_HD-20221007-1665119784.ts
